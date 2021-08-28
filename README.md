@@ -8,7 +8,7 @@ A Flutter mobile application in which:
 ### Used Firebase for authentication and chat/comment functionality.
 
 ## Login and SignUp Screens.
-[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-36-31.png](https://i.postimg.cc/WzhFcpNK/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-36-31.png)](https://postimg.cc/dZct8YTm). [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-36-40.png](https://i.postimg.cc/kgxVmpCn/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-36-40.png)](https://postimg.cc/K18c7Q4V) 
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-38.png](https://i.postimg.cc/W3MsLyCM/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-38.png)](https://postimg.cc/cg4pfFsH) [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-40.png](https://i.postimg.cc/q7KTyYk9/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-40.png)](https://postimg.cc/sB3qRTGc)
 
 
 ## Home Screen.
