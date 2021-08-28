@@ -8,18 +8,18 @@ Future<List<News>> getNewsData(country, category) async {
   if (country == "" && category == "") {
     country = 'in';
     url =
-        'https://newsapi.org/v2/top-headlines?country=$country&apiKey=f4bc54e7e76b48f19915f5424b1156cc';
+        'https://newsapi.org/v2/top-headlines?country=$country&apiKey';
   }
   if (country != "" && category == "") {
     url =
-        'https://newsapi.org/v2/top-headlines?country=$country&apiKey=f4bc54e7e76b48f19915f5424b1156cc';
+        'https://newsapi.org/v2/top-headlines?country=$country&apiKey';
   }
   if (country == "" && category != "") {
     url =
-        'https://newsapi.org/v2/top-headlines?&category=$category&apiKey=f4bc54e7e76b48f19915f5424b1156cc';
+        'https://newsapi.org/v2/top-headlines?&category=$category&apiKey';
   } else {
     url =
-        'https://newsapi.org/v2/top-headlines?country=$country&category=$category&apiKey=f4bc54e7e76b48f19915f5424b1156cc';
+        'https://newsapi.org/v2/top-headlines?country=$country&category=$category&apiKey';
   }
   Uri uri = Uri.parse(url);
   String host = uri.host;
