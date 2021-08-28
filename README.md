@@ -8,7 +8,7 @@ A Flutter mobile application in which:
 ### Used Firebase for authentication and chat/comment functionality.
 
 ## Login and SignUp Screens.
-[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-38.png](https://i.postimg.cc/W3MsLyCM/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-38.png)](https://postimg.cc/cg4pfFsH) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-40.png](https://i.postimg.cc/q7KTyYk9/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-40.png)](https://postimg.cc/sB3qRTGc)
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-38.png](https://i.postimg.cc/W3MsLyCM/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-38.png)](https://postimg.cc/cg4pfFsH)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-40.png](https://i.postimg.cc/q7KTyYk9/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-17-19-40.png)](https://postimg.cc/sB3qRTGc)
 
 
 ## Home Screen.
