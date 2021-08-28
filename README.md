@@ -1,16 +1,25 @@
-# final_project
+# News App with User Chats and Authentication.
 
-A new Flutter project.
+A Flutter mobile application in which:
+  *  User can explore different countries and various categories News.
+  *  Every User can share their thoughts and discuss on any news topic.
+  *  User can register with email and password OR can use google signin authentication also.
 
-## Getting Started
+### Used Firebase for authentication and chat/comment functionality.
 
-This project is a starting point for a Flutter application.
+## Login and SignUp Screens.
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-36-31.png](https://i.postimg.cc/WzhFcpNK/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-36-31.png)](https://postimg.cc/dZct8YTm). [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-36-40.png](https://i.postimg.cc/kgxVmpCn/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-36-40.png)](https://postimg.cc/K18c7Q4V) 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Home Screen.
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-37-17.png](https://i.postimg.cc/X75qfzpw/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-37-17.png)](https://postimg.cc/tYX9yDdT)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Different Countries and Various Categories to choose from.
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-37-23.png](https://i.postimg.cc/qBhyFQN7/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-37-23.png)](https://postimg.cc/qgrNhsXf). [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-37-26.png](https://i.postimg.cc/yN8SyTqs/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-37-26.png)](https://postimg.cc/LJGXHL6b)
+
+## News Description and Users comment place (Users share their opinions).
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-47-57.png](https://i.postimg.cc/RZM3vTZK/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-47-57.png)](https://postimg.cc/KRHcNBL8). [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-48-19.png](https://i.postimg.cc/zDCX3RMj/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-48-19.png)](https://postimg.cc/CdKVQdwB)
+
+## User Profile.
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-48-28.png](https://i.postimg.cc/FRjmf2PR/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-48-28.png)](https://postimg.cc/jwdBmkY0)
